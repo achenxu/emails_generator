@@ -3,7 +3,7 @@
 Generate an infinite number of emails
 
 ## Find me 
-* [Website](amine.boulouma.com)
+* [Website](https://amine.boulouma.com)
 * [Youtube](https://www.youtube.com/aminemboulouma)
 * [Linkedin](https://www.linkedin.com/in/aminemboulouma)
 * [Facebook](https://www.facebook.com/aminemboulouma)
